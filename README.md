@@ -23,3 +23,12 @@ Dual alert system (vibration + buzzer)
 Offline working system
 Wearable design
 Rechargeable battery powered
+
+**Software Used**
+Arduino IDE
+Arduino C++
+
+**Output**
+Detects obstacles before collision
+Alerts the user through vibration and buzzer
+Helps visually impaired users walk safely
